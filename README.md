@@ -1,5 +1,4 @@
 # GameOfLife
-Game of Life
 The Rules
 For a space that is populated:
   Each cell with one or no neighbors dies, as if by solitude.
